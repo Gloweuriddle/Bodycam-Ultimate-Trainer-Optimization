@@ -1,5 +1,15 @@
 # 📹 Bodycam — Ultimate Trainer & Optimization Collection
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=1800&pause=400&color=FF3B3B&center=true&vCenter=true&multiline=true&width=900&height=110&lines=%5B+REC+%E2%97%8F+%5D+BODYCAM+FEED+ACTIVE;TRAINER+%E2%80%A2+FPS+BOOST+%E2%80%A2+TACTICAL+OVERLAY;INSERT+%E2%86%92+ENGAGE+%E2%86%92+DOMINATE" alt="Bodycam Typing Animation" />
+</p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Bodycam Tactical Feed">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1400&pause=300&color=FF3B3B&center=true&vCenter=true&width=800&lines=%5B+%E2%97%8F+REC+%5D+FRAME+RATE%3A+LOCKED;ESP+%E2%80%A2+CHAMS+%E2%80%A2+NO+RECOIL+%E2%80%A2+ACTIVE;TARGET+ACQUIRED+%E2%80%A2+ENGAGING" alt="Bodycam Status Bar" />
+</p>
 <p align="center">
   <b>Own the Light | Dominate the Tactical Shooter | Rule the Battlefield</b>
 </p>
